@@ -1,13 +1,5 @@
-# project
-_site
-.sass-cache
-.vagrant
+/.quarto/
+**/*.quarto_ipynb
+/.quarto/
+_site/
 
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
-
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem
