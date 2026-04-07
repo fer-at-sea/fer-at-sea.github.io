@@ -3,20 +3,45 @@ project:
   output-dir: docs
 
 website:
-  title: "fer-at-sea"
+  title: "Fernando Garcia-Gonzalez"
+  description: "Data science portfolio"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: Research
+        menu:
+          - text: Congresses
+            href: congresses.qmd
+          - text: Publications
+            href: publications.qmd
+          - text: Outreach
+            href: outreach.qmd
+          - text: PhD Research Plan
+            href: https://fer-at-sea.github.io/phd_research_plan/
+          
+      - href: about.qmd
+        text: About Me
+      - text: Resources
+        menu:
+          - text: GEAM GEODABASE
+            href: https://coastal-ai.github.io/GEAM_GEODATABASE/
+          - text: CoastalDroneMaps
+            href: https://coastal-ai.github.io/CoastalDroneMaps/
+          - text: Mataro Swipe Map
+            href: https://fer-at-sea.github.io/mataro_swipe_map/
+  page-footer:
+    center: |
+      <a href="https://github.com/fer-at-sea" target="_blank" rel="noopener" title="GitHub"><i class="bi bi-github" style="font-size:1.3rem;"></i></a>
+      &ensp;
+      <a href="https://orcid.org/0000-0003-4042-6789" target="_blank" rel="noopener" title="ORCID"><img src="/assets/ORCID.png" alt="ORCID" style="height:1.3rem;vertical-align:-0.15em;"></a>
+      &ensp;
+      <a href="mailto:f.garcia@ieo.csic.es" title="Email"><i class="bi bi-envelope" style="font-size:1.3rem;"></i></a>
+      <br>fer-at-sea
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 

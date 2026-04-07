@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Earth observation with a focus in our coasts",
+    "section": "",
+    "text": "Hi, I’m Fer. This site under construction is where I will share my projects, analysis work, and data explorations."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "fer-at-sea",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’m Fer, a data scientist with a passion for exploring data and building things.\n\n\nInterests\n\nData analysis & visualisation\nPython, pandas, and the pydata ecosystem\n\n\n\n\nGet in touch\n\nGitHub: fer-at-sea"
   }
 ]

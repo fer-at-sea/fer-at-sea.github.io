@@ -1,7 +1,17 @@
 ---
-title: "fer-at-sea"
+title: "Earth observation with a focus in our coasts"
+subtitle: "Marine ecology, remote sensing and geospatial analysis"
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+Hi, I'm **Fer**. This site under construction is where I will share my projects, analysis work, and data explorations.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
+
+<video autoplay muted loop playsinline style="width:100%;border-radius:6px;">
+  <source src="/assets/DJI_20240517093052_0003_D.MP4" type="video/mp4">
+</video>
+
+---
+

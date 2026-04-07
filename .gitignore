@@ -3,3 +3,5 @@
 /.quarto/
 _site/
 
+.DS_Store
+*.MP4

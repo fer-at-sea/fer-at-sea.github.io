@@ -1,5 +1,19 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+I'm **Fer**, a data scientist with a passion for exploring data and building things.
+
+<!-- Add your bio here -->
+
+### Interests
+
+- Data analysis & visualisation
+- Python, pandas, and the pydata ecosystem
+- <!-- Add your interests -->
+
+### Get in touch
+
+- GitHub: [fer-at-sea](https://github.com/fer-at-sea)
+- <!-- Add other contact info -->
