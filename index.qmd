@@ -10,7 +10,7 @@ Hi, I'm **Fer**. This site under construction is where I will share my projects,
 ---
 
 <video autoplay muted loop playsinline style="width:100%;border-radius:6px;">
-  <source src="/assets/DJI_20240517093052_0003_D.MP4" type="video/mp4">
+  <source src="/assets/DJI_20240517093052_0003_D.mov" type="video/mp4">
 </video>
 
 ---
