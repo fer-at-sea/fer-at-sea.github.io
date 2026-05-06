@@ -2,4 +2,8 @@
 title: "Congresses"
 ---
 
-<!-- Add your presentations here -->
+- **Garcia-Gonzalez, F.**, Bernardeau Esteller, J., Martinez-Garrido, J., Rojo, I., Belando Torrentes, M. D., Garcia Sanchez, M., Mompean de la Rosa, C., Garcia-Munoz, R., Marin-Guirao, L., & Ruiz Fernandez, J. M. (2024, June 19). *Merging scales and methodologies: from underwater tow cameras to Sentinel-2 imagery to assess seagrass distribution*. 2024 World Seagrass Conference & 15th International Seagrass Biology Workshop (WSC), Napoli. [10.5281/zenodo.12513770](https://doi.org/10.5281/zenodo.12513770)
+
+- **Garcia-Gonzalez, F.**, Jordi Boada, Emma Cebrian, & Elia Quiros. (2023, June 9). *Mapping underwater ecosystems through remote sensing: novel approaches to expand the scales of global biodiversity tracking*. Aquatic Sciences Meeting 2023 (ASLO), Palma de Mallorca, Spain. [10.5281/zenodo.8354746](https://doi.org/10.5281/zenodo.8354746)
+
+- **Garcia-Gonzalez, F.**, Teresa Alcoverro, Emma Cebrian, Bernat Hereu, Joaquim Garrabou, & Jordi Boada. (2022, June 8). *Monitoreo de desiertos submarinos mediante drones y ciencia ciudadana*. Jornadas de SIG Libre, Universitat de Girona. [10.5281/zenodo.8355648](https://doi.org/10.5281/zenodo.8355648)

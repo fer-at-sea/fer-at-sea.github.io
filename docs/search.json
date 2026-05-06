@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Earth observation with a focus in our coasts",
     "section": "",
-    "text": "Hi, I’m Fer. This site under construction is where I will share my projects, analysis work, and data explorations."
+    "text": "Hi, I’m Fer. This site under construction is where I will share my thoughts, projects and data explorations."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m Fer, a data scientist with a passion for exploring data and building things.\n\n\nInterests\n\nData analysis & visualisation\nPython, pandas, and the pydata ecosystem\n\n\n\n\nGet in touch\n\nGitHub: fer-at-sea"
+    "text": "I’m a geospatial analyst drawn to the quiet complexity of coastal environments. My current work focuses on seagrass meadows and macroalgal forests, landscapes often overlooked, yet fundamental to life along the shore.\nI trained in Marine Sciences but part of what I understand about the ocean was learned outside formal training. After a brief period in international development in Haiti, I turned back to the sea, not as a researcher at first, but as a worker within it. I fished on French trawlers and in Caribbean artisanal fisheries, sailed the Atlantic and the Arctic Circle, met the Malvinas current, and dived for marine resources in Asturias and Australia, among other trades, crisscrossing ports, waves and mountains along the way. Those years of wild wonder were another way of getting to know the ocean: its rhythms, its uncertainties, forms of knowledge that rarely make their way into datasets. Over time, I returned to science, becoming a remote sensing and geospatial analyst: an attempt to read patterns in coastal systems without losing sight of the textures that shape them.\nI currently work at the Seagrass Ecology Group of the Spanish Institute of Oceanography (IEO-CSIC) and I am based at the Oceanographic Center of Gijón. We study the distribution, pressures and ecological status of marine angiosperms across intertidal and subtidal environments. My work focuses on developing methods to assess the extent and trends of these coastal ecosystems, combining remote sensing with ecological knowledge. Through my PhD, I explore the balance between field observations and remotely sensed products, with a particular interest geospatial data visualization."
+  },
+  {
+    "objectID": "congresses.html",
+    "href": "congresses.html",
+    "title": "Congresses",
+    "section": "",
+    "text": "Garcia-Gonzalez, F., Bernardeau Esteller, J., Martinez-Garrido, J., Rojo, I., Belando Torrentes, M. D., Garcia Sanchez, M., Mompean de la Rosa, C., Garcia-Munoz, R., Marin-Guirao, L., & Ruiz Fernandez, J. M. (2024, June 19). Merging scales and methodologies: from underwater tow cameras to Sentinel-2 imagery to assess seagrass distribution. 2024 World Seagrass Conference & 15th International Seagrass Biology Workshop (WSC), Napoli. 10.5281/zenodo.12513770\nGarcia-Gonzalez, F., Jordi Boada, Emma Cebrian, & Elia Quiros. (2023, June 9). Mapping underwater ecosystems through remote sensing: novel approaches to expand the scales of global biodiversity tracking. Aquatic Sciences Meeting 2023 (ASLO), Palma de Mallorca, Spain. 10.5281/zenodo.8354746\nGarcia-Gonzalez, F., Teresa Alcoverro, Emma Cebrian, Bernat Hereu, Joaquim Garrabou, & Jordi Boada. (2022, June 8). Monitoreo de desiertos submarinos mediante drones y ciencia ciudadana. Jornadas de SIG Libre, Universitat de Girona. 10.5281/zenodo.8355648"
   }
 ]

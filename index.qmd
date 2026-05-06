@@ -5,7 +5,7 @@ page-layout: full
 toc: false
 ---
 
-Hi, I'm **Fer**. This site under construction is where I will share my projects, analysis work, and data explorations.
+Hi, I'm **Fer**. This site under construction is where I will share my thoughts, projects and data explorations.
 
 ---
 
