@@ -17,7 +17,7 @@ website:
             href: https://fer-at-sea.github.io/phd_research_plan/
           
       - href: about.qmd
-        text: About
+        text: About me
       - text: Resources
         menu:
           - text: GEAM GEODABASE
