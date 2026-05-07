@@ -26,6 +26,8 @@ website:
             href: https://coastal-ai.github.io/CoastalDroneMaps/
           - text: Mataro Swipe Map
             href: https://fer-at-sea.github.io/mataro_swipe_map/
+          - text: kodeanvet
+            href: https://kodeanvet.wordpress.com/  
   page-footer:
     center: |
       <a href="https://github.com/fer-at-sea" target="_blank" rel="noopener" title="GitHub"><i class="bi bi-github" style="font-size:1.3rem;"></i></a>
