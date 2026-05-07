@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Fernando Garcia-Gonzalez</title>
+<title>About me – Fernando Garcia-Gonzalez</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -96,26 +96,22 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./congresses.html">
- <span class="dropdown-text">Congresses</span></a>
+    <a class="dropdown-item" href="./conferences.html">
+ <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./outreach.html">
- <span class="dropdown-text">Outreach</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="https://fer-at-sea.github.io/phd_research_plan/">
- <span class="dropdown-text">PhD Research Plan</span></a>
+ <span class="dropdown-text">PhD Plan</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About Me</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -153,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">About me</h1>
 </div>
 
 
@@ -170,18 +166,34 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I’m a geospatial analyst drawn to the quiet complexity of coastal environments. My current work focuses on seagrass meadows and macroalgal forests, landscapes often overlooked, yet fundamental to life along the shore.</p>
-<p>I trained in Marine Sciences but part of what I understand about the ocean was learned outside formal training. After a brief period in international development in <a href="https://kodeanvet.wordpress.com">Haiti</a>, I turned back to the sea, not as a researcher at first, but as a worker within it. I fished on French trawlers and in Caribbean artisanal fisheries, sailed the Atlantic and the Arctic Circle, met the Malvinas current, and dived for marine resources in Asturias and Australia, among other trades, crisscrossing ports, waves and mountains along the way. Those years of wild wonder were another way of getting to know the ocean: its rhythms, its uncertainties, forms of knowledge that rarely make their way into datasets. Over time, I returned to science, becoming a remote sensing and geospatial analyst: an attempt to read patterns in coastal systems without losing sight of the textures that shape them.</p>
-<p>I currently work at the Seagrass Ecology Group of the Spanish Institute of Oceanography (IEO-CSIC) and I am based at the Oceanographic Center of Gijón. We study the distribution, pressures and ecological status of marine angiosperms across intertidal and subtidal environments. My work focuses on developing methods to assess the extent and trends of these coastal ecosystems, combining remote sensing with ecological knowledge. Through my PhD, I explore the balance between field observations and remotely sensed products, with a particular interest geospatial data visualization.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/norway.JPG" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
-</div>
+<p>I studied Marine Sciences but part of what I understand about the ocean was learned through years of work at sea, fishing, sailing or diving for marine resources, crisscrossing ports, waves and mountains along the way. Over time, I returned to science, working at the intersection of marine ecology and geospatial analysis: an attempt to read patterns in coastal systems without losing sight of the textures that shape them. I explore the balance between field observations and remotely sensed products, with a particular interest seagrass meadows and macroalgal forests, landscapes often overlooked, yet fundamental to life along the shore.</p>
+<p><img src="assets/norway.JPG" class="portrait img-fluid"></p>
 
 
 
 </main> <!-- /main -->
+<script>
+(function () {
+  const nameRegex = /(Fernando\s+Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*Fernando|F\.\s*Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*F\.)/g;
+
+  function boldNameInCitations() {
+    const targets = document.querySelectorAll(".csl-entry, .citation");
+    targets.forEach((el) => {
+      const html = el.innerHTML;
+      const updated = html.replace(nameRegex, "<strong>$1</strong>");
+      if (updated !== html) {
+        el.innerHTML = updated;
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boldNameInCitations);
+  } else {
+    boldNameInCitations();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

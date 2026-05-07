@@ -9,17 +9,15 @@ website:
     right:
       - text: Research
         menu:
-          - text: Congresses
-            href: congresses.qmd
+          - text: Conferences
+            href: conferences.qmd
           - text: Publications
             href: publications.qmd
-          - text: Outreach
-            href: outreach.qmd
-          - text: PhD Research Plan
+          - text: PhD Plan
             href: https://fer-at-sea.github.io/phd_research_plan/
           
       - href: about.qmd
-        text: About Me
+        text: About
       - text: Resources
         menu:
           - text: GEAM GEODABASE
@@ -42,6 +40,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-after-body: assets/bold-name-cites.html
+
+csl: assets/apa.csl
 
 
 

@@ -1,0 +1,22 @@
+<script>
+(function () {
+  const nameRegex = /(Fernando\s+Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*Fernando|F\.\s*Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*F\.)/g;
+
+  function boldNameInCitations() {
+    const targets = document.querySelectorAll(".csl-entry, .citation");
+    targets.forEach((el) => {
+      const html = el.innerHTML;
+      const updated = html.replace(nameRegex, "<strong>$1</strong>");
+      if (updated !== html) {
+        el.innerHTML = updated;
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boldNameInCitations);
+  } else {
+    boldNameInCitations();
+  }
+})();
+</script>

@@ -1,5 +1,7 @@
 ---
-title: "Publications"
+title: " "
+bibliography: assets/Publications.bib
+nocite: |
+  @*
 ---
-
-<!-- Add your publications here -->
+# Publications

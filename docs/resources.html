@@ -96,26 +96,22 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./congresses.html">
- <span class="dropdown-text">Congresses</span></a>
+    <a class="dropdown-item" href="./conferences.html">
+ <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./outreach.html">
- <span class="dropdown-text">Outreach</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="https://fer-at-sea.github.io/phd_research_plan/">
- <span class="dropdown-text">PhD Research Plan</span></a>
+ <span class="dropdown-text">PhD Plan</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About Me</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -175,6 +171,28 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
+(function () {
+  const nameRegex = /(Fernando\s+Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*Fernando|F\.\s*Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*F\.)/g;
+
+  function boldNameInCitations() {
+    const targets = document.querySelectorAll(".csl-entry, .citation");
+    targets.forEach((el) => {
+      const html = el.innerHTML;
+      const updated = html.replace(nameRegex, "<strong>$1</strong>");
+      if (updated !== html) {
+        el.innerHTML = updated;
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boldNameInCitations);
+  } else {
+    boldNameInCitations();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

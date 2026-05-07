@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications – Fernando Garcia-Gonzalez</title>
+<title>quarto-inputcf8e28201710b372 – Fernando Garcia-Gonzalez</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -96,26 +116,22 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./congresses.html">
- <span class="dropdown-text">Congresses</span></a>
+    <a class="dropdown-item" href="./conferences.html">
+ <span class="dropdown-text">Conferences</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./outreach.html">
- <span class="dropdown-text">Outreach</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="https://fer-at-sea.github.io/phd_research_plan/">
- <span class="dropdown-text">PhD Research Plan</span></a>
+ <span class="dropdown-text">PhD Plan</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About Me</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -149,32 +165,48 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Publications</h1>
+
+
+
+<section id="publications" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Publications</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-fer_masterThesis_2021" class="csl-entry" role="listitem">
+Garcia-Gonzalez, F. (2021). <em>Master thesis- <span>Efficiency</span> of <span>Sentinel</span>-2 to monitor marine protected areas: Bathymetry and underwater habitat mapping.</em> [PhD thesis, Zenodo]. <a href="https://doi.org/10.5281/ZENODO.8355538">https://doi.org/10.5281/ZENODO.8355538</a>
 </div>
+<div id="ref-fer_AET2024" class="csl-entry" role="listitem">
+García-González, F., Bernardeau-Esteller, J., Martínez-Garrido, J., Rojo, I., Dalmau, A., Belando, M. D., García-Sánchez, M., Mompeán, C., García-Muñoz, R., Marín-Guirao, L., Quirós, E., Boada, J., &amp; Ruiz, J. M. (2024, June). Integración de <span>Sentinel</span>-2 en la evaluación del estado de las praderas de <span>Posidonia</span> oceanica. <em>Teledetección y <span>Cambio</span> <span>Global</span>: <span>Retos</span> y <span>Oportunidades</span> Para Un <span>Crecimiento</span> <span>Azul</span></em>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script>
+(function () {
+  const nameRegex = /(Fernando\s+Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*Fernando|F\.\s*Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez|Garc(?:i|\u00ED)a-?Gonz(?:a|\u00E1)lez,\s*F\.)/g;
 
+  function boldNameInCitations() {
+    const targets = document.querySelectorAll(".csl-entry, .citation");
+    targets.forEach((el) => {
+      const html = el.innerHTML;
+      const updated = html.replace(nameRegex, "<strong>$1</strong>");
+      if (updated !== html) {
+        el.innerHTML = updated;
+      }
+    });
+  }
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<!-- Add your publications here -->
-
-
-
-</main> <!-- /main -->
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boldNameInCitations);
+  } else {
+    boldNameInCitations();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

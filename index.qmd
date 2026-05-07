@@ -1,6 +1,5 @@
 ---
-title: "Earth observation with a focus in our coasts"
-subtitle: "Marine ecology, remote sensing and geospatial analysis"
+title: "Marine ecology, coastal remote sensing and geospatial analysis"
 page-layout: full
 toc: false
 ---
