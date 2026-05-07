@@ -1,10 +1,10 @@
 /* css styles */
 
 .portrait {
-  border-radius: 50%;
+  border-radius: 90%;
   object-fit: cover;
-  width: 260px;
-  height: 260px;
+  width: 400px;
+  height: 400px;
   display: block;
   margin: 1.5rem auto;
   box-shadow: 0 4px 16px rgba(0,0,0,0.15);
