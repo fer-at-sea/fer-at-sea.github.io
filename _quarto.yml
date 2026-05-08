@@ -7,7 +7,7 @@ project:
     - bash scripts/print_cv_pdf.sh
 
 website:
-  title: "Fernando Garcia-Gonzalez"
+  title: "Fernando García-González"
   description: "Data science portfolio"
   navbar:
     right:

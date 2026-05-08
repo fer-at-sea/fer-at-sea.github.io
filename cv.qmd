@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "CV | Fernando Garcia-Gonzalez"
+pagetitle: "CV | Fernando García-González"
 navbar: false
 page-footer: false
 format:
@@ -19,7 +19,7 @@ format:
 
 ![](assets/freedive.jpg){.profile-photo}
 
-### Fernando <br> Garcia-Gonzalez
+### Fernando <br> García-González
 Geospatial analyst  
 Seagrass Ecology Group  
 (IEO-CSIC)
@@ -73,7 +73,7 @@ My work lies at the interface between optical remote sensing and applied marine 
 **MSc in Remote Sensing** - University of Extremadura, Spain (2021)  
 
 
-- Master thesis: Garcia-Gonzalez, F., Quiros-Rosado, E., Cebrian, E., & Boada, J. (2021). *Efficiency of Sentinel-2 to monitor marine protected areas: bathymetry and cartography of underwater coastal habitats by means of remote sensing* http://hdl.handle.net/10662/17008
+- Master thesis: García-González, F., Quiros-Rosado, E., Cebrian, E., & Boada, J. (2021). *Efficiency of Sentinel-2 to monitor marine protected areas: bathymetry and cartography of underwater coastal habitats by means of remote sensing* http://hdl.handle.net/10662/17008
 - Erasmus+ internship at LOV-IMEV-Sorbonne University, France.
 - Field expedition at Lerins Islands coordinated by ECOSEAS-Nice University, France.
 
