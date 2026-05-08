@@ -1,0 +1,6 @@
+---
+title: "Contributions"
+toc: false
+---
+
+{{< include assets/contributions_auto.qmd >}}

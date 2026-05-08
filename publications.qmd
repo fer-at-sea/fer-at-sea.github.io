@@ -1,7 +1,0 @@
----
-title: " "
-bibliography: assets/Publications.bib
-nocite: |
-  @*
----
-# Publications

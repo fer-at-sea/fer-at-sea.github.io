@@ -1,0 +1,24 @@
+<!-- AUTO-GENERATED: do not edit manually. Run scripts/generate_contributions_sections.py -->
+
+### Conference proceedings
+
+- **Garcia-Gonzalez, F.**, Bernardeau-Esteller, J., Martinez-Garrido, J., Rojo, I., Dalmau, A., Belando, M. D., Garcia-Sanchez, M., Mompean, C., Garcia-Munoz, R., Marin-Guirao, L., Quiros, E., Boada, J., & Ruiz, J. M. (2024). *Integracion de Sentinel-2 en la evaluacion del estado de las praderas de Posidonia oceanica*. Teledeteccion y Cambio Global: Retos y Oportunidades para un Crecimiento Azul.
+
+### Conference presentations
+
+- **Garcia-Gonzalez, F.**, Boada, J., Cebrian, E., & Quiros, E. (2023). *Mapping Underwater Ecosystems through Remote Sensing: Novel Approaches to Expand the Scales of Global Biodiversity Tracking*. ASLO Aquatic Scinces Meeting. [https://doi.org/10.5281/zenodo.8354746](https://doi.org/10.5281/zenodo.8354746)
+- **Garcia-Gonzalez, F.**, Alcoverro Pedrola, T., Cebrian, E., Garrabou, J., Hereu, B., & Boada, J. (2022). *Monitoreo de Desiertos Submarinos Mediate Ciencia Ciudadana y Teledeteccion*. Jornades SIG Lliure. [https://doi.org/10.5281/zenodo.8355648](https://doi.org/10.5281/zenodo.8355648)
+- **Garcia-Gonzalez, F.**, Bernardeau Esteller, J., Martinez-Garrido, J., Rojo, I., Belando Torrentes, M. D., Garcia Sanchez, M., Mompean de la Rosa, C., Garcia-Munoz, R., Marin-Guirao, L., & Ruiz Fernandez, J. M. (2024). *Merging Scales and Methodologies: From Underwater Tow Cameras to Sentinel-2 Imagery to Assess Seagrass Distribution*. World Seagrass Conference & 15th International Seagrass Biology Workshop (WSC - ISBW). [https://doi.org/10.5281/ZENODO.12513770](https://doi.org/10.5281/ZENODO.12513770)
+- Martinez-Garrido, J., **Garcia-Gonzalez, F.**, Bernardeau Esteller, J., Arteaga Michaux, S., Garcia, M., Navarro-Martinez, P., Marin-Guirao, L., Belando Torrentes, M. D., Rojo, I., Garcia-Sanchez, M., Mompean de la Rosa, C., Garcia-Munoz, R., & Ruiz Fernandez, J. M. (2024). *A Novel Approach to Monitor the Deep Limits of Posidonia Oceanica Meadows: Seascape Analysis Using High-Resolution Underwater Orthomosaics.*. World Seagrass Conference & 15th International Seagrass Biology Workshop (WSC - ISBW). [https://doi.org/10.5281/ZENODO.14281038](https://doi.org/10.5281/ZENODO.14281038)
+
+### Master thesis
+
+- **Garcia-Gonzalez, F.** (2021). *Master thesis- Efficiency of Sentinel-2 to monitor marine protected areas: bathymetry and underwater habitat mapping.*. Zenodo. [https://doi.org/10.5281/ZENODO.8355538](https://doi.org/10.5281/ZENODO.8355538)
+
+### Mentoring
+
+- Elvira Sanchez, P. (2025). *Monitorizacion de la presencia de Zostera noltii en la Ria de Villaviciosa a partir de imagenes capturadas con drones. Trabajo final de Grado en Ciencia e Ingenieria de datos.*. [https://hdl.handle.net/10651/80196](https://hdl.handle.net/10651/80196)
+
+### Reports
+
+- (2022). *Monitoring of Cymodocea Nodosa Index According to the Water Framework Directive (2000/60/EC) at the Ebro Delta Bays. Annual Report 2022. CEAB-CSIC.*.

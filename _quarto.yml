@@ -1,21 +1,27 @@
 project:
   type: website
   output-dir: docs
+  pre-render:
+    - .venv/bin/python scripts/generate_contributions_sections.py
+  post-render:
+    - bash scripts/print_cv_pdf.sh
 
 website:
   title: "Fernando Garcia-Gonzalez"
   description: "Data science portfolio"
   navbar:
     right:
-      - href: about.qmd
-        text: About me
+      - text: About me
+        menu:
+          - text: Short bio
+            href: short_bio.qmd
+          - text: CV
+            href: cv.qmd
 
       - text: Research
         menu:
-          - text: Conferences
-            href: conferences.qmd
-          - text: Publications
-            href: publications.qmd
+          - text: Contributions
+            href: contributions.qmd
           - text: PhD Plan
             href: https://fer-at-sea.github.io/phd_research_plan/
           
@@ -27,6 +33,7 @@ website:
             href: https://coastal-ai.github.io/CoastalDroneMaps/
           - text: Mataro Swipe Map
             href: https://fer-at-sea.github.io/mataro_swipe_map/
+            
       - text: Other resources
         menu:
           - text: kodeanvet
