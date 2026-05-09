@@ -22,9 +22,9 @@ Hi, I'm **Fer**. This site under construction is where I will share my thoughts,
 30 April 2026
 :::
 
-*Rugulopteryx okamurae* detected at Arbeyal Beach, where it had been previously observed. Here, we attempt to quantify the volume of the wrack accumulation.
+*Rugulopteryx okamurae* was detected at Arbeyal Beach, where it had been previously observed. Here, we attempt to quantify the volume of the wrack accumulation.
 
-[Open the project update](https://fer-at-sea.github.io/rugu_arbeyal/){.update-card__link target="_blank" rel="noopener"}
+[Open the project](https://fer-at-sea.github.io/rugu_arbeyal/){.update-card__link target="_blank" rel="noopener"}
 :::
 
 ::: {.update-card}
