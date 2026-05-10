@@ -1,5 +1,66 @@
 /* css styles */
 
+/* ── About page 2-col layout ── */
+.about-layout {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin: 2rem 0;
+}
+
+.about-photo-wrap {
+  position: relative;
+  flex: 0 0 auto;
+  width: min(300px, 40vw);
+}
+
+.about-photo {
+  width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  display: block;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.cv-badge {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
+  background: #164a3a;
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+.cv-badge:hover,
+.cv-badge:focus {
+  background: #0d3228;
+  color: #fff;
+}
+
+.about-text {
+  flex: 1 1 0;
+  padding-top: 0.25rem;
+  padding-bottom: 1.5rem;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+@media (max-width: 640px) {
+  .about-layout {
+    flex-direction: column;
+  }
+  .about-photo-wrap {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto 2rem;
+  }
+}
+
 .portrait {
   border-radius: 50%;
   object-fit: cover;
@@ -20,6 +81,24 @@
   background:
     linear-gradient(135deg, rgba(209, 228, 221, 0.95), rgba(245, 241, 230, 0.96));
   box-shadow: 0 18px 40px rgba(22, 74, 58, 0.12);
+}
+
+.updates-section-title {
+  max-width: 760px;
+  margin: 2.2rem auto 0.9rem;
+  padding: 0 0.2rem;
+  color: #164a3a;
+  font-size: 1.15rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.intro-lead {
+  max-width: 760px;
+  margin: 1.25rem auto 0;
+  text-align: center;
 }
 
 .update-card__eyebrow {
@@ -74,6 +153,62 @@
     padding: 1.15rem;
     border-radius: 14px;
   }
+}
+
+/* ── Hero section ── */
+
+/* Remove the gap Quarto adds above the first element */
+main.content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.quarto-title-block {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.hero {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-height: 85vh;
+  overflow: hidden;
+  margin-bottom: 2.5rem;
+}
+
+.hero video {
+  width: 100%;
+  max-height: 85vh;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.hero-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-size: clamp(1.4rem, 3.5vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.01em;
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  padding: 0 2rem;
+  white-space: nowrap;
 }
 
 

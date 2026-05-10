@@ -31,7 +31,7 @@ Seagrass Ecology Group
 - <img src="assets/ORCID.png" alt="ORCID" class="contact-icon" /> [0000-0003-4042-6789](https://orcid.org/0000-0003-4042-6789)
 - <i class="bi bi-envelope"></i> [f.garcia@ieo.csic.es](mailto:f.garcia@ieo.csic.es)
 - <i class="bi bi-telephone"></i> [+34 688 92 92 40](tel:+34688929240)
-- 🌐 [Personal web](https://fer-at-sea.github.io)
+- 🌐 [Research portfolio](https://fer-at-sea.github.io)
 - <i class="bi bi-github"></i> [GitHub](https://github.com/fer-at-sea)
 
 
@@ -51,7 +51,7 @@ Seagrass Ecology Group
 - Geospatial analysis
 - Data visualization
 - Surfing
-- Diving
+- Freediving
 - Sailing
 - Hiking
 
@@ -101,7 +101,7 @@ My work lies at the interface between optical remote sensing and applied marine 
 ## Work Experience
 
 - **Drone pilot and remote sensing analyst** - Advanced Center of Studies of Blanes (CEAB-CSIC). Organization and participation in underwater campaigns, drone surveys, data preparation, report writing and outreach across several contracts from 2021 to 2023.
-- **Professional diver** - Eight summer campaigns as a seaweed collector diver in Asturias (2015-2022). One campaign as a holothurian collector in the Great Barrier Reef, Australia (2019). >2000 logged hours.
+- **Professional diver** - Eight summer campaigns as a seaweed collector diver in Asturias (2015-2022). One campaign as a holothurian collector diver in the Great Barrier Reef, Australia (2019). >2000 logged hours.
 - **Sailing** - Two transatlantic crossings (2014 and 2017). Charted vessels: Guadeloupe-Haiti (2013), Germany (2012), France-Norway (2012). >7000 nautical miles.
 - **Fishing** - Work on several vessels across different countries. Artisanal fishing  in Australia (2019), Guadeloupe (2013) and Asturias (2015-2016). Trawling in France (2012-2013).
 - **NGO coordinator** - Country manager for the Spanish NGO Aida in Haiti (2013).
@@ -131,7 +131,7 @@ My work lies at the interface between optical remote sensing and applied marine 
 - Free diver instructor, AIDA (2021), personal best: -43m CWT.
 - SCUBA diver instructor, PADI (2020).
 - Emergency and first response instructor, EFR (2020).
-- Scientific diver (2010), professional diver (2015) and professional skipper (2016): two transatlantic crossings under sail, >7000 nautical
+- Scientific diver (2010), professional diver (2015) and professional skipper (2016).
 
 :::
 

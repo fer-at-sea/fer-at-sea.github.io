@@ -11,12 +11,8 @@ website:
   description: "Data science portfolio"
   navbar:
     right:
-      - text: About me
-        menu:
-          - text: Short bio
-            href: short_bio.qmd
-          - text: CV
-            href: cv.qmd
+      - text: About
+        href: about.qmd
 
       - text: Research
         menu:

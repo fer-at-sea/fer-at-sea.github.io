@@ -1,18 +1,24 @@
 ---
-title: "Marine ecology, coastal remote sensing and geospatial analysis"
+title: ""
+pagetitle: "Marine ecology, coastal remote sensing and geospatial analysis"
 page-layout: full
 toc: false
 ---
 
-Hi, I'm **Fer**. This site under construction is where I will share my thoughts, projects and data explorations.
+<div class="hero">
+  <video autoplay muted loop playsinline>
+    <source src="/assets/merged_hero.mp4" type="video/mp4">
+  </video>
+  <div class="hero-overlay"></div>
+  <p class="hero-title">Coastal ecology, remote sensing and geospatial analysis</p>
+</div>
 
 
-
-<video autoplay muted loop playsinline style="width:100%;border-radius:6px;">
-  <source src="/assets/merged_hero.mp4" type="video/mp4">
-</video>
+<p class="intro-lead">Hi, I'm <strong>Fer</strong>. This research portfolio is where I share projects, fieldwork, data explorations and thoughts.</p>
 
 ---
+
+<p class="updates-section-title">Recent Activity</p>
 
 ::: {.update-card}
 
