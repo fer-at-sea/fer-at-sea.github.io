@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "I studied Marine Sciences but part of what I understand about the ocean was learned through years of work at sea, fishing, sailing or diving for marine resources, crisscrossing ports, countries, waves and mountains along the way.\nOver time, I returned to science, working at the intersection of marine ecology and geospatial analysis, with a particular interest in seagrass meadows and macroalgal forests: an attempt to read patterns in coastal systems without losing sight of the textures that shape them.\nI currently work at the Seagrass Ecology Group (IEO-CSIC), mapping and monitoring seagrass meadows in response to European environmental frameworks. I am also pursuing a PhD exploring the balance between field observations and remotely sensed products at different scales.\nView CV"
+    "text": "Hi, I’m Fer.\nI studied Marine Sciences but part of what I understand about the ocean was learned through years of work at sea, fishing, sailing or diving for marine resources, crisscrossing ports, countries, waves and mountains along the way.\nOver time, I returned to science, working at the intersection of remote sensing, geospatial analysis and marine ecology, with a particular interest in seagrass meadows and macroalgal forests: an attempt to read patterns in coastal systems without losing sight of the textures that shape them.\nI currently work at the Seagrass Ecology Group (GEAM) of the the Spanish Institute of Oceanography (IEO-CSIC), mapping and monitoring seagrass meadows in response to European environmental frameworks. I am also pursuing a PhD exploring the balance between field observations and remotely sensed products at different scales.\nThis research portfolio is where I share projects, fieldwork, data explorations and thoughts.\nView CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fernando García-González",
     "section": "",
-    "text": "Coastal ecology, remote sensing and geospatial analysis\nHi, I’m Fer. This research portfolio is where I share projects, fieldwork, data explorations and thoughts.\nRecent Activity"
+    "text": "Coastal ecology, remote sensing and geospatial analysis\nRecent Activity"
   },
   {
     "objectID": "index.html#quantifying-rugulopteryx-beach-wrack-accumulation",
@@ -40,6 +40,13 @@
     "title": "Fernando García-González",
     "section": "EOPF Zarr Community Notebook Competition",
     "text": "EOPF Zarr Community Notebook Competition\n\n29 April 2026\n\nThe notebook Cloud-native intertidal vegetation monitoring with Sentinel-2 and EOPF Zarr, by Fernando García-González and Pablo González González, was selected as one of the winning entries in the EOPF Zarr Community Notebook Competition, part of the EOPF Toolkit initiative developed with ESA, Development Seed and Sparkgeo. All winning notebooks will be integrated into the EOPF 101 online book. Until the integration is completed the notebook can be accessed on GitHub\nOpen the post on LinkedIn"
+  },
+  {
+    "objectID": "index.html#coastal-ai-initiative",
+    "href": "index.html#coastal-ai-initiative",
+    "title": "Fernando García-González",
+    "section": "Coastal AI initiative",
+    "text": "Coastal AI initiative\n\n14 February 2024\n\nKick-off of the collaboration between the Artificial Intelligence Center (AIC) of the University of Oviedo and the Seagrass Ecology Group of the Spanish Institute of Oceanography (IEO-CSIC). Explore the ongoing work of Coastal AI and our GitHub organization.\nCoastal AI on GitHub"
   },
   {
     "objectID": "cv.html",

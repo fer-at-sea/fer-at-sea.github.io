@@ -14,7 +14,6 @@ toc: false
 </div>
 
 
-<p class="intro-lead">Hi, I'm <strong>Fer</strong>. This research portfolio is where I share projects, fieldwork, data explorations and thoughts.</p>
 
 ---
 
@@ -47,5 +46,19 @@ The notebook *Cloud-native intertidal vegetation monitoring with Sentinel-2 and 
 [Open the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7455232416664707072/){.update-card__link target="_blank" rel="noopener"}
 :::
 
+
+::: {.update-card}
+
+## Coastal AI initiative
+
+::: {.update-card__meta}
+14 February 2024
+:::
+
+ Kick-off of the collaboration between the Artificial Intelligence Center (AIC) of the University of Oviedo and the Seagrass Ecology Group of the Spanish Institute of Oceanography (IEO-CSIC). Explore the ongoing work of Coastal AI and our GitHub organization.
+
+
+[Coastal AI on GitHub](https://github.com/coastal-AI){.update-card__link target="_blank" rel="noopener"}
+:::
 ---
 

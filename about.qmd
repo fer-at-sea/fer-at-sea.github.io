@@ -9,11 +9,15 @@ toc: false
 </div>
 <div class="about-text">
 
-I studied Marine Sciences but part of what I understand about the ocean was learned through years of work at sea, fishing, sailing or diving for marine resources, crisscrossing ports, countries, waves and mountains along the way.  
+Hi, I'm **Fer**. 
 
-Over time, I returned to science, working at the intersection of marine ecology and geospatial analysis, with a particular interest in seagrass meadows and macroalgal forests: an attempt to read patterns in coastal systems without losing sight of the textures that shape them. 
+I studied Marine Sciences but part of what I understand about the ocean was learned through years of **work at sea**, fishing, sailing or diving for marine resources, crisscrossing ports, countries, waves and mountains along the way.  
 
-I currently work at the Seagrass Ecology Group (IEO-CSIC), mapping and monitoring seagrass meadows in response to European environmental frameworks. I am also pursuing a PhD exploring the balance between field observations and remotely sensed products at different scales.
+Over time, I returned to science, working at the intersection of **remote sensing**, **geospatial** analysis and marine **ecology**, with a particular interest in seagrass meadows and macroalgal forests: an attempt to read patterns in coastal systems without losing sight of the textures that shape them. 
+
+I currently work at the **Seagrass Ecology Group** (GEAM) of the the Spanish Institute of Oceanography (IEO-CSIC), mapping and monitoring seagrass meadows in response to European environmental frameworks. I am also pursuing a PhD exploring the balance between field observations and remotely sensed products at different scales.
+
+This research **portfolio** is where I share projects, fieldwork, data explorations and thoughts.
 
 <a href="cv.html" class="cv-badge">View CV</a>
 
