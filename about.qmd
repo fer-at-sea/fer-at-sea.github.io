@@ -1,17 +1,17 @@
 ---
-title: "About"
+title: "About me"
 toc: false
 ---
 
 <div class="about-layout">
 <div class="about-photo-wrap">
-<img src="assets/norway.JPG" class="about-photo" alt="Fernando García-González">
+<img src="assets/portrait.png" class="about-photo" alt="Fernando García-González">
 </div>
 <div class="about-text">
 
 I studied Marine Sciences but part of what I understand about the ocean was learned through years of work at sea, fishing, sailing or diving for marine resources, crisscrossing ports, countries, waves and mountains along the way.  
 
-Over time, I returned to science, working at the intersection of marine ecology and geospatial analysis, with a particular interest in seagrass meadows and macroalgal forests. I attempt to read patterns in coastal systems without losing sight of the textures that shape them. 
+Over time, I returned to science, working at the intersection of marine ecology and geospatial analysis, with a particular interest in seagrass meadows and macroalgal forests: an attempt to read patterns in coastal systems without losing sight of the textures that shape them. 
 
 I currently work at the Seagrass Ecology Group (IEO-CSIC), mapping and monitoring seagrass meadows in response to European environmental frameworks. I am also pursuing a PhD exploring the balance between field observations and remotely sensed products at different scales.
 
