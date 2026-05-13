@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Wave favicon">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2aa7d6" />
+      <stop offset="100%" stop-color="#0a5e8e" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#e9f7ff" />
+  <path d="M10 38c6-8 12-8 18 0s12 8 18 0 12-8 18 0" fill="none" stroke="url(#sea)" stroke-width="7" stroke-linecap="round" />
+  <path d="M10 46c6-8 12-8 18 0s12 8 18 0 12-8 18 0" fill="none" stroke="#7fc8e8" stroke-width="4" stroke-linecap="round" opacity="0.95" />
+</svg>

@@ -8,6 +8,7 @@ project:
 
 website:
   title: "Fer"
+  favicon: assets/favicon-wave.svg
   description: "Data science portfolio"
   search: false
   navbar:
