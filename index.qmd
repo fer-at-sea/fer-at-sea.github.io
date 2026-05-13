@@ -11,11 +11,11 @@ toc: false
   <div class="hero-overlay"></div>
   <div class="hero-text">
 <p class="hero-title">Monitoring coastal landscapes</p>
-<p class="hero-subtitle">Ecology, remote sensing and geospatial analysis</p>
+<p class="hero-subtitle">Remote sensing and ecology of <br> **seagrass meadows** and **macroalgal forests**</p>
   </div>
 </div>
 
-<p class="intro-line">Welcome to my personal webpage, a space for sharing projects, fieldwork, visualizations and ideas.</p>
+<p class="intro-line">Welcome to my personal webpage, a space for sharing fieldwork, geospatial analysis,  visualizations and ideas.</p>
 
 ---
 
