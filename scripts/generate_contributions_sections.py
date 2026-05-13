@@ -33,7 +33,7 @@ SECTION_ORDER = [
 ]
 
 # Author to emphasize in generated references.
-TARGET_AUTHOR_LASTNAME = "garcia-gonzalez"
+TARGET_AUTHOR_LASTNAME = "garcía-gonzález"
 
 
 def clean_text(value: str) -> str:

@@ -1,6 +1,5 @@
 ---
 title: ""
-pagetitle: "Marine ecology, coastal remote sensing and geospatial analysis"
 page-layout: full
 toc: false
 ---
@@ -10,10 +9,13 @@ toc: false
     <source src="/assets/merged_hero.mp4" type="video/mp4">
   </video>
   <div class="hero-overlay"></div>
-  <p class="hero-title">Coastal ecology, remote sensing and geospatial analysis</p>
+  <div class="hero-text">
+<p class="hero-title">Monitoring coastal landscapes</p>
+<p class="hero-subtitle">Ecology, remote sensing and geospatial analysis</p>
+  </div>
 </div>
 
-
+<p class="intro-line">Welcome to my personal webpage, a space for sharing projects, fieldwork, visualizations and ideas.</p>
 
 ---
 
@@ -40,7 +42,7 @@ toc: false
 29 April 2026
 :::
 
-The notebook *Cloud-native intertidal vegetation monitoring with Sentinel-2 and EOPF Zarr*, by Fernando García-González and Pablo González González, was selected as one of the winning entries in the EOPF Zarr Community Notebook Competition, part of the EOPF Toolkit initiative developed with ESA, Development Seed and Sparkgeo. All winning notebooks will be integrated into the [EOPF 101 online book](https://eopf-toolkit.github.io/eopf-101/). Until the integration is completed the notebook can be accessed on [GitHub](https://github.com/fer-at-sea/community-notebook-competition/blob/fer-at-sea-submission/submissions/cloud_native_intertidal_vegetation_monitoring_with_sentinel2_and_EOPF_Zarr/submission.ipynb) 
+The notebook *Cloud-native intertidal vegetation monitoring with Sentinel-2 and EOPF Zarr*, by Fernando García-González and Pablo González González, was selected as one of the winning entries in the EOPF Zarr Community Notebook Competition, part of the EOPF Toolkit initiative developed with ESA, Development Seed and Sparkgeo. All selected notebooks will be integrated into the [EOPF 101 online book](https://eopf-toolkit.github.io/eopf-101/). Until the integration is completed the notebook can be accessed on [GitHub](https://github.com/fer-at-sea/community-notebook-competition/blob/fer-at-sea-submission/submissions/cloud_native_intertidal_vegetation_monitoring_with_sentinel2_and_EOPF_Zarr/submission.ipynb) 
 
 
 [Open the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7455232416664707072/){.update-card__link target="_blank" rel="noopener"}

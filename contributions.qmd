@@ -1,6 +1,7 @@
 ---
-title: "Contributions"
+title: "Research"
 toc: false
 ---
-
+### Ongoing PhD
+- [Remote sensing of marine vegetation for monitoring and managing coastal ecosystems.](https://fer-at-sea.github.io/phd_research_plan/)
 {{< include assets/contributions_auto.qmd >}}

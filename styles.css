@@ -162,22 +162,41 @@ main.content {
   background: rgba(0, 0, 0, 0.35);
 }
 
-.hero-title {
+.hero-text {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0;
   text-align: center;
+  z-index: 1;
+  padding: 0 2rem;
+}
+
+.hero-title {
+  margin: 0;
   color: #fff;
   font-size: clamp(1.4rem, 3.5vw, 2.4rem);
   font-weight: 700;
   line-height: 1.25;
   letter-spacing: 0.01em;
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.7);
-  z-index: 1;
-  padding: 0 2rem;
-  white-space: nowrap;
+}
+
+.hero-subtitle {
+  margin: 0.5rem 0 0;
+  color: #fff;
+  font-size: clamp(1rem, 2.2vw, 1.4rem);
+  font-weight: 500;
+  line-height: 1.35;
+  letter-spacing: 0.01em;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.7);
+}
+
+.intro-line {
+  margin: 0 auto 1.6rem;
+  max-width: 150ch;
+  text-align: center;
 }
 
 

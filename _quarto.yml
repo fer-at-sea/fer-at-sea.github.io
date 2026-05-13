@@ -7,21 +7,19 @@ project:
     - bash scripts/print_cv_pdf.sh
 
 website:
-  title: "Fernando García-González"
+  title: "Fer"
   description: "Data science portfolio"
+  search: false
   navbar:
+    title: "Fernando García-González"
     right:
       - text: About
         href: about.qmd
 
       - text: Research
-        menu:
-          - text: Contributions
-            href: contributions.qmd
-          - text: PhD Plan
-            href: https://fer-at-sea.github.io/phd_research_plan/
+        href: contributions.qmd
           
-      - text: Data viewers
+      - text: Spatial viewers
         menu:
           - text: GEAM GEODABASE
             href: https://coastal-ai.github.io/GEAM_GEODATABASE/
@@ -30,12 +28,6 @@ website:
           - text: Mataro Swipe Map
             href: https://fer-at-sea.github.io/mataro_swipe_map/
             
-      - text: Other resources
-        menu:
-          - text: kodeanvet
-            href: https://kodeanvet.wordpress.com/ 
-          - text: lava
-            href: https://www.comarcajoven.com/lava-de-fernando-garcia-gonzalez-relato-ganador-del-i-premio-de-relatos-ayuntamiento-de-villaviciosa/
   page-footer:
     center: |
       <a href="https://github.com/fer-at-sea" target="_blank" rel="noopener" title="GitHub"><i class="bi bi-github" style="font-size:1.3rem;"></i></a>
