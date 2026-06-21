@@ -42,7 +42,7 @@ toc: false
 29 April 2026
 :::
 
-The notebook *Cloud-native intertidal vegetation monitoring with Sentinel-2 and EOPF Zarr*, by Fernando García-González and Pablo González González, was selected as one of the winning entries in the EOPF Zarr Community Notebook Competition, part of the EOPF Toolkit initiative developed with ESA, Development Seed and Sparkgeo. All selected notebooks will be integrated into the [EOPF 101 online book](https://eopf-toolkit.github.io/eopf-101/). Until the integration is completed the notebook can be accessed on [GitHub](https://github.com/fer-at-sea/community-notebook-competition/blob/fer-at-sea-submission/submissions/cloud_native_intertidal_vegetation_monitoring_with_sentinel2_and_EOPF_Zarr/submission.ipynb) 
+The notebook *Cloud-native intertidal vegetation monitoring with Sentinel-2 and EOPF Zarr*, by Fernando García-González and Pablo González González, was selected as one of the winning entries in the EOPF Zarr Community Notebook Competition, part of the EOPF Toolkit initiative developed with ESA, Development Seed and Sparkgeo. All selected notebooks will be integrated into the [EOPF 101 online book](https://eopf-toolkit.github.io/eopf-101/06_eopf_zarr_in_action/611_intertidal_vegetation_monitoring_with_s2.html). 
 
 
 [Open the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7455232416664707072/){.update-card__link target="_blank" rel="noopener"}
